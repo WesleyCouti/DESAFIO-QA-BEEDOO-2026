@@ -184,14 +184,21 @@ Os bugs encontrados foram documentados contendo:
 - impacto;
 - evidência.
 
-🔗 **Planilha de bugs reportados:** 
+🔗 **Planilha de bugs reportados:**  
 [LINK_DAS_EVIDENCIAS](https://docs.google.com/spreadsheets/d/1FKsoLBawnnISl1jJ8bqUgjuU5U95SGC5bUAExDXvmY0/edit?usp=sharing)
 
 ---
 
 ## Evidências da execução
 
-As evidências da execução (prints e gravações ) foram organizadas em uma pasta específica dentro deste repositório, facilitando a consulta e a rastreabilidade dos resultados obtidos durante os testes.
+As evidências da execução (prints, gravações e arquivos complementares) foram organizadas em uma pasta específica dentro deste repositório, facilitando a consulta e a rastreabilidade dos resultados obtidos durante os testes.
+
+Também foi disponibilizado um link externo para acesso complementar às evidências:
+
+🔗 **Drive com evidências:**  
+[[INSERIR_LINK_DO_DRIVE_AQUI]](https://drive.google.com/drive/folders/1TtlS9bJrOZeKsirOglU4--gkpaUyDiP8?usp=sharing)
+
+Caso haja qualquer indisponibilidade no acesso ao link externo, as evidências permanecem disponíveis diretamente neste repositório como segunda alternativa para análise.
 
 ---
 
