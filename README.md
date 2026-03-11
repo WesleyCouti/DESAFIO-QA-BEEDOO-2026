@@ -168,7 +168,7 @@ Os cenários e casos de teste foram organizados em planilha, contendo:
 - status
 
 🔗 **Planilha de testes:**  
-LINK_DA_PLANILHA
+[LINK_DA_PLANILHA](https://docs.google.com/spreadsheets/d/1uyb2obtfDOK1lwB1K62qiGI5JdL_vpYCRrzrU7JZbg0/edit?usp=sharing)
 
 ---
 
@@ -191,7 +191,7 @@ Os bugs encontrados foram documentados contendo:
 As evidências da execução (prints e gravações) foram organizadas em pasta compartilhada.
 
 🔗 **Evidências:**  
-LINK_DAS_EVIDENCIAS
+[LINK_DAS_EVIDENCIAS](https://docs.google.com/spreadsheets/d/1FKsoLBawnnISl1jJ8bqUgjuU5U95SGC5bUAExDXvmY0/edit?usp=sharing)
 
 ---
 
